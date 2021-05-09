@@ -1,0 +1,18 @@
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             1006480       0   1006480   0% /dev
+tmpfs             204272    3000    201272   2% /run
+/dev/sda2       65543732 2823024  59361476   5% /
+tmpfs            1021352       0   1021352   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            1021352       0   1021352   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             204268       0    204268   0% /run/user/1001
+ZCZC pwd
+/home/nadilatusifa12/RESULT/W08
+ZCZC date
+Sun 09 May 2021 12:35:01 AM WIB
+ZCZC hostname
+nadilatusifa12
+ZCZC chktoken
+nadilatusifa12 3615-8281
