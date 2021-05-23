@@ -1,0 +1,340 @@
+ZCZC ===== Chapter 06 =====  Week 09 =====
+ZCZC pwd /home/nadilatusifa12/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1602
+ZCZC hostname nadilatusifa12
+ZCZC username nadilatusifa12
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M      /mnt/lfs/sources/
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0212-AC37 Verified
+ZCZC MaxLFS 1864M
+ZCZC MaxROOT 2755M
+ZCZC MaxMemory 81M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 89M
+ZCZC MaxLFS 1875M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0316-70A2 Verified
+ZCZC MaxMemory 90M
+ZCZC MaxMemory 92M
+ZCZC MaxROOT 2756M
+ZCZC MaxMemory 95M
+ZCZC MaxLFS 1876M
+ZCZC MaxLFS 1878M
+ZCZC MaxLFS 1880M
+ZCZC MaxMemory 139M
+ZCZC MaxLFS 1883M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0419-378E Verified
+ZCZC MaxLFS 1884M
+ZCZC MaxLFS 1886M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0521-5ECC Verified
+ZCZC MaxLFS 1889M
+ZCZC MaxMemory 153M
+ZCZC MaxLFS 1893M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0624-BD78 Verified
+ZCZC MaxLFS 1901M
+ZCZC MaxLFS 1903M
+ZCZC MaxLFS 1904M
+ZCZC MaxLFS 1905M
+ZCZC MaxLFS 1908M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0726-D0E6 Verified
+ZCZC MaxLFS 1910M
+ZCZC MaxLFS 1911M
+ZCZC MaxLFS 1919M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0830-2FBD Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 0933-EAFD Verified
+ZCZC MaxMemory 187M
+ZCZC MaxROOT 2757M
+ZCZC MaxMemory 404M
+ZCZC MaxMemory 417M
+ZCZC MaxLFS 1920M
+ZCZC MaxLFS 1926M
+ZCZC MaxLFS 1941M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1037-D423 Verified
+ZCZC MaxLFS 1944M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1140-A717 Verified
+ZCZC MaxLFS 1945M
+ZCZC MaxLFS 1946M
+ZCZC MaxLFS 1950M
+ZCZC MaxLFS 1952M
+ZCZC MaxLFS 1954M
+ZCZC MaxLFS 1957M
+ZCZC MaxLFS 1961M
+ZCZC MaxLFS 1964M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1242-1464 Verified
+ZCZC MaxLFS 1968M
+ZCZC MaxLFS 2010M
+ZCZC MaxLFS 2058M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1345-2A61 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1449-E87A Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1551-AB14 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1655-61B4 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1758-777C Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 1901-93A2 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2006-BF48 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2107-E089 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2210-FA39 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2312-8D9C Verified
+ZCZC MaxROOT 2758M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2415-8033 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2518-D3FC Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2621-7980 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2724-92E4 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2827-4FDF Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 2930-17F4 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3032-2D63 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3134-76F9 Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3237-C16E Verified
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3339-A033 Verified
+ZCZC MaxLFS 2202M
+ZCZC MaxLFS 2301M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3442-3E23 Verified
+ZCZC MaxLFS 2302M
+ZCZC MaxLFS 2303M
+ZCZC MaxLFS 2305M
+ZCZC MaxLFS 2310M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3544-A8CD Verified
+ZCZC MaxLFS 2313M
+ZCZC MaxLFS 2318M
+ZCZC MaxLFS 2324M
+ZCZC MaxLFS 2329M
+ZCZC MaxLFS 2332M
+ZCZC MaxLFS 2334M
+ZCZC MaxROOT 2759M
+ZCZC MaxMemory 422M
+ZCZC MaxLFS 2339M
+ZCZC MaxLFS 2341M
+ZCZC MaxLFS 2371M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3646-6825 Verified
+ZCZC MaxLFS 2383M
+ZCZC MaxLFS 2389M
+ZCZC MaxLFS 2402M
+ZCZC MaxLFS 2403M
+ZCZC MaxLFS 2410M
+ZCZC MaxLFS 2417M
+ZCZC MaxLFS 2422M
+ZCZC MaxLFS 2428M
+ZCZC MaxLFS 2439M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3749-0641 Verified
+ZCZC MaxLFS 2476M
+ZCZC MaxLFS 2491M
+ZCZC MaxLFS 2695M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3853-3692 Verified
+ZCZC MaxLFS 2902M
+ZCZC MaxLFS 2914M
+ZCZC MaxLFS 2934M
+ZCZC MaxLFS 2938M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 3956-362D Verified
+ZCZC MaxLFS 2939M
+ZCZC MaxLFS 2940M
+ZCZC MaxLFS 2941M
+ZCZC MaxLFS 2943M
+ZCZC MaxLFS 2946M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4058-D3F0 Verified
+ZCZC MaxLFS 2953M
+ZCZC MaxLFS 2954M
+ZCZC MaxLFS 2960M
+ZCZC MaxLFS 2964M
+ZCZC MaxLFS 2966M
+ZCZC MaxLFS 2970M
+ZCZC MaxLFS 2974M
+ZCZC MaxLFS 2977M
+ZCZC MaxLFS 2979M
+ZCZC MaxLFS 2983M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4201-B4CB Verified
+ZCZC MaxLFS 2984M
+ZCZC MaxLFS 2987M
+ZCZC MaxLFS 2989M
+ZCZC MaxLFS 2991M
+ZCZC MaxLFS 2993M
+ZCZC MaxLFS 2998M
+ZCZC MaxLFS 3000M
+ZCZC MaxLFS 3001M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4303-14AB Verified
+ZCZC MaxLFS 3002M
+ZCZC MaxLFS 3009M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4404-D069 Verified
+ZCZC MaxLFS 3016M
+ZCZC MaxMemory 544M
+ZCZC MaxLFS 3025M
+ZCZC MaxMemory 571M
+ZCZC MaxLFS 3038M
+ZCZC MaxMemory 602M
+ZCZC MaxLFS 3041M
+ZCZC MaxLFS 3048M
+ZCZC MaxMemory 801M
+ZCZC MaxLFS 3054M
+ZCZC MaxLFS 3055M
+ZCZC MaxMemory 1061M
+ZCZC MaxLFS 3056M
+ZCZC MaxMemory 1224M
+ZCZC MaxLFS 3062M
+ZCZC MaxMemory 1254M
+ZCZC MaxLFS 3066M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4508-BBC2 Verified
+ZCZC MaxLFS 3068M
+ZCZC MaxROOT 2763M
+ZCZC MaxLFS 3073M
+ZCZC MaxROOT 2768M
+ZCZC MaxLFS 3079M
+ZCZC MaxMemory 1369M
+ZCZC MaxMemory 1718M
+ZCZC MaxLFS 3080M
+ZCZC MaxMemory 1900M
+ZCZC MaxMemory 2093M
+ZCZC MaxLFS 3083M
+ZCZC MaxLFS 3086M
+ZCZC MaxLFS 3089M
+ZCZC MaxMemory 2225M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4612-736B Verified
+ZCZC MaxLFS 3090M
+ZCZC MaxMemory 2438M
+ZCZC MaxLFS 3106M
+ZCZC MaxLFS 3112M
+ZCZC MaxROOT 2771M
+ZCZC MaxLFS 3115M
+ZCZC MaxLFS 3116M
+ZCZC MaxROOT 2773M
+ZCZC MaxLFS 3119M
+ZCZC MaxROOT 2775M
+ZCZC MaxLFS 3124M
+ZCZC MaxROOT 2778M
+ZCZC MaxLFS 3127M
+ZCZC MaxROOT 2780M
+ZCZC MaxLFS 3129M
+ZCZC MaxROOT 2784M
+ZCZC MaxROOT 2790M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4715-159B Verified
+ZCZC MaxLFS 3132M
+ZCZC MaxROOT 2792M
+ZCZC MaxLFS 3137M
+ZCZC MaxLFS 3139M
+ZCZC MaxROOT 2798M
+ZCZC MaxLFS 3141M
+ZCZC MaxROOT 2817M
+ZCZC MaxLFS 3144M
+ZCZC MaxLFS 3153M
+ZCZC MaxLFS 3155M
+ZCZC MaxMemory 2439M
+ZCZC MaxLFS 3157M
+ZCZC MaxMemory 2560M
+ZCZC MaxLFS 3159M
+ZCZC MaxMemory 2662M
+ZCZC MaxLFS 3162M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4819-1106 Verified
+ZCZC MaxLFS 3163M
+ZCZC MaxLFS 3165M
+ZCZC MaxROOT 2860M
+ZCZC MaxMemory 2747M
+ZCZC MaxLFS 3166M
+ZCZC MaxROOT 2879M
+ZCZC MaxLFS 3172M
+ZCZC MaxROOT 2889M
+ZCZC MaxLFS 3213M
+ZCZC MaxLFS 3218M
+ZCZC MaxLFS 3219M
+ZCZC MaxLFS 3221M
+ZCZC MaxLFS 3227M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 4923-50E5 Verified
+ZCZC MaxLFS 3229M
+ZCZC MaxLFS 3237M
+ZCZC MaxLFS 3239M
+ZCZC MaxLFS 3241M
+ZCZC MaxLFS 3250M
+ZCZC MaxLFS 3252M
+ZCZC MaxLFS 3257M
+ZCZC MaxLFS 3259M
+ZCZC MaxLFS 3266M
+ZCZC MaxLFS 3268M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5026-5DC3 Verified
+ZCZC MaxLFS 3271M
+ZCZC MaxLFS 3278M
+ZCZC MaxLFS 3283M
+ZCZC MaxLFS 3284M
+ZCZC MaxLFS 3289M
+ZCZC MaxLFS 3317M
+ZCZC MaxLFS 3320M
+ZCZC MaxLFS 3323M
+ZCZC MaxLFS 3329M
+ZCZC MaxLFS 3333M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5129-A795 Verified
+ZCZC MaxLFS 3334M
+ZCZC MaxLFS 3341M
+ZCZC MaxLFS 3342M
+ZCZC MaxLFS 3346M
+ZCZC MaxLFS 3358M
+ZCZC MaxLFS 3361M
+ZCZC MaxLFS 3367M
+ZCZC MaxLFS 3371M
+ZCZC MaxLFS 3375M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5233-854A Verified
+ZCZC MaxLFS 3379M
+ZCZC MaxLFS 3383M
+ZCZC MaxLFS 3388M
+ZCZC MaxLFS 3393M
+ZCZC MaxLFS 3394M
+ZCZC MaxLFS 3404M
+ZCZC MaxLFS 3406M
+ZCZC MaxLFS 3412M
+ZCZC MaxLFS 3415M
+ZCZC MaxLFS 3421M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5336-E5E6 Verified
+ZCZC MaxLFS 3426M
+ZCZC MaxLFS 3430M
+ZCZC MaxLFS 3434M
+ZCZC MaxLFS 3441M
+ZCZC MaxLFS 3443M
+ZCZC MaxLFS 3445M
+ZCZC MaxLFS 3448M
+ZCZC MaxLFS 3457M
+ZCZC MaxLFS 3462M
+ZCZC MaxLFS 3464M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5439-E8E7 Verified
+ZCZC MaxLFS 3470M
+ZCZC MaxLFS 3471M
+ZCZC MaxLFS 3474M
+ZCZC MaxLFS 3481M
+ZCZC MaxLFS 3486M
+ZCZC MaxLFS 3492M
+ZCZC MaxLFS 3498M
+ZCZC MaxLFS 3502M
+ZCZC MaxLFS 3503M
+ZCZC MaxLFS 3505M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5543-CF25 Verified
+ZCZC MaxLFS 3516M
+ZCZC MaxLFS 3520M
+ZCZC MaxLFS 3526M
+ZCZC MaxLFS 3530M
+ZCZC MaxLFS 3531M
+ZCZC MaxLFS 3539M
+ZCZC MaxLFS 3545M
+ZCZC MaxLFS 3548M
+ZCZC MaxLFS 3551M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5646-4F81 Verified
+ZCZC MaxLFS 3555M
+ZCZC MaxLFS 3558M
+ZCZC MaxLFS 3563M
+ZCZC MaxLFS 3566M
+ZCZC MaxLFS 3568M
+ZCZC MaxLFS 3575M
+ZCZC MaxLFS 3580M
+ZCZC MaxLFS 3598M
+ZCZC MaxLFS 3633M
+ZCZC MaxLFS 3641M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5749-AE5D Verified
+ZCZC MaxLFS 3649M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5852-F074 Verified
+ZCZC MaxLFS 3657M
+ZCZC MaxSwap 2M
+ZCZC MaxLFS 4064M
+ZCZC MaxSwap 5M
+ZCZC MaxLFS 4644M
+ZCZC MaxSwap 6M
+ZCZC MaxLFS 4656M
+ZCZC MaxLFS 4658M
+ZCZC MaxLFS 4662M
+ZCZC MaxLFS 4666M
+ZCZC MaxLFS 4667M
+ZCZC MaxLFS 5689M
+ZCZC verifyTokenn nadilatusifa12W09 nadilatusifa12 5954-F3EB Verified
+
