@@ -1,0 +1,161 @@
+ZCZC ===== Chapter 08_18 =====  Week 10 =====
+ZCZC pwd /home/nadilatusifa12/git/os211quiz/SandBox/W10/W10
+ZCZC date 210529-1239
+ZCZC hostname nadilatusifa12
+ZCZC username nadilatusifa12
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M      /mnt/lfs/sources/
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 3948-B33C Verified
+ZCZC MaxLFS 2958M
+ZCZC MaxROOT 3596M
+ZCZC MaxMemory 83M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 84M
+ZCZC MaxMemory 85M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4054-D371 Verified
+ZCZC MaxMemory 91M
+ZCZC MaxMemory 93M
+ZCZC MaxMemory 94M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4205-354F Verified
+ZCZC MaxLFS 3176M
+ZCZC MaxMemory 160M
+ZCZC MaxLFS 3285M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4311-69A9 Verified
+ZCZC MaxLFS 3286M
+ZCZC MaxMemory 162M
+ZCZC MaxLFS 3288M
+ZCZC MaxLFS 3290M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4414-5728 Verified
+ZCZC MaxLFS 3295M
+ZCZC MaxLFS 3298M
+ZCZC MaxMemory 172M
+ZCZC MaxLFS 3307M
+ZCZC MaxLFS 3313M
+ZCZC MaxMemory 212M
+ZCZC MaxLFS 3317M
+ZCZC MaxMemory 343M
+ZCZC MaxLFS 3320M
+ZCZC MaxMemory 401M
+ZCZC MaxLFS 3323M
+ZCZC MaxLFS 3327M
+ZCZC MaxLFS 3355M
+ZCZC MaxLFS 3367M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4517-B71A Verified
+ZCZC MaxLFS 3373M
+ZCZC MaxLFS 3386M
+ZCZC MaxLFS 3388M
+ZCZC MaxLFS 3399M
+ZCZC MaxLFS 3402M
+ZCZC MaxMemory 709M
+ZCZC MaxLFS 3410M
+ZCZC MaxLFS 3415M
+ZCZC MaxLFS 3424M
+ZCZC MaxMemory 1092M
+ZCZC MaxLFS 3427M
+ZCZC MaxLFS 3434M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4619-E7E6 Verified
+ZCZC MaxLFS 3435M
+ZCZC MaxMemory 1416M
+ZCZC MaxLFS 3444M
+ZCZC MaxLFS 3446M
+ZCZC MaxLFS 3458M
+ZCZC MaxLFS 3460M
+ZCZC MaxLFS 3461M
+ZCZC MaxMemory 1432M
+ZCZC MaxLFS 3464M
+ZCZC MaxMemory 1717M
+ZCZC MaxLFS 3480M
+ZCZC MaxLFS 3490M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4723-D203 Verified
+ZCZC MaxLFS 3508M
+ZCZC MaxLFS 3511M
+ZCZC MaxMemory 2012M
+ZCZC MaxLFS 3547M
+ZCZC MaxLFS 3553M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4825-FE95 Verified
+ZCZC MaxMemory 2145M
+ZCZC MaxLFS 3555M
+ZCZC MaxMemory 2152M
+ZCZC MaxLFS 3574M
+ZCZC MaxMemory 2167M
+ZCZC MaxMemory 2365M
+ZCZC MaxMemory 2810M
+ZCZC MaxLFS 3575M
+ZCZC MaxMemory 3004M
+ZCZC MaxSwap 1M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 4928-FC14 Verified
+ZCZC MaxLFS 3579M
+ZCZC MaxMemory 3194M
+ZCZC MaxSwap 2M
+ZCZC MaxLFS 3586M
+ZCZC MaxMemory 3307M
+ZCZC MaxSwap 4M
+ZCZC MaxLFS 3608M
+ZCZC MaxLFS 3711M
+ZCZC MaxLFS 3806M
+ZCZC MaxSwap 8M
+ZCZC MaxLFS 3842M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5031-5224 Verified
+ZCZC MaxLFS 3849M
+ZCZC MaxLFS 4016M
+ZCZC MaxLFS 4042M
+ZCZC MaxLFS 4049M
+ZCZC MaxLFS 4071M
+ZCZC MaxLFS 4088M
+ZCZC MaxLFS 4103M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5148-0C28 Verified
+ZCZC MaxLFS 4104M
+ZCZC MaxLFS 4184M
+ZCZC MaxLFS 4190M
+ZCZC MaxLFS 4379M
+ZCZC MaxLFS 4468M
+ZCZC MaxLFS 4469M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5250-901A Verified
+ZCZC MaxLFS 4472M
+ZCZC MaxLFS 5080M
+ZCZC MaxLFS 5458M
+ZCZC MaxLFS 5478M
+ZCZC MaxLFS 5538M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5351-A028 Verified
+ZCZC MaxLFS 5550M
+ZCZC MaxLFS 5564M
+ZCZC MaxLFS 5566M
+ZCZC MaxLFS 5567M
+ZCZC MaxLFS 5568M
+ZCZC MaxLFS 5573M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5453-EDED Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5554-0CCE Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5655-D1D4 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5757-2F03 Verified
+ZCZC MaxLFS 5578M
+ZCZC MaxLFS 5579M
+ZCZC MaxLFS 6433M
+ZCZC MaxLFS 7349M
+ZCZC MaxLFS 7625M
+ZCZC MaxSwap 11M
+ZCZC MaxSwap 13M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 5859-85B1 Verified
+ZCZC MaxLFS 7628M
+ZCZC MaxLFS 7845M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0009-EA85 Verified
+ZCZC MaxLFS 7862M
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0112-2F3B Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0222-C049 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0325-ADE1 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0430-A107 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0537-B420 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0639-87F8 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0755-1534 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 0903-5AD7 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1039-BC52 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1147-D8A2 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1252-A62D Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1359-5D50 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1533-0BD3 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1639-E6F8 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1801-EF0F Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 1908-2C82 Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 2011-9D0A Verified
+ZCZC verifyTokenn nadilatusifa12W10 nadilatusifa12 2115-998D Verified
